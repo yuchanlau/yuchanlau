@@ -4,18 +4,18 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 🔭 I’m currently working on several open-source projects.
-- 💬 Ask me about Python, JavaScript, and web development.
+- 🌱 I’m currently learning Unity and Game development.
+- 🔭 I’m currently working on 1 open-source projects.
+- 💬 Dont ask me anything.
 - 📫 How to reach me: [yuchans@163.com](mailto:email@example.com)
 - ⚡ Fun fact: I love motorcycle and exploring new places.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Django, Flask
+- **Languages:** C++，C#, Python
+- **Frameworks/Libraries:** None
 - **Tools:** Git, Docker, Kubernetes, VS Code
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** None
 
 ## 📈 GitHub Stats
 
