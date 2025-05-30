@@ -1,29 +1,35 @@
-# Hi there, I'm Cheng! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for solving complex problems and building innovative solutions. Here's a little bit about me:
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning Unity and Game development.
-- 🔭 I’m currently working on 1 open-source projects.
-- 💬 Dont ask me anything.
-- 📫 How to reach me: [yuchans@163.com](mailto:email@example.com)
-- ⚡ Fun fact: I love motorcycle and exploring new places.
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** C++，C#, Python
-- **Frameworks/Libraries:** None
-- **Tools:** Git, Docker, Kubernetes, VS Code
-- **Databases:** None
-
-## 📈 GitHub Stats
-
-![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengscode&show_icons=true&theme=radical)
+  <!-- dynamic typing effect 动态打字效果 -->
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
 
-## 📂 Featured Repositories
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
----
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=yuchanlau&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@yucheng"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
+
