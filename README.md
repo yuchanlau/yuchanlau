@@ -20,7 +20,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=yuchanlau&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@933d66b0-96f8-4e00-81ad-43d402be51f8"><img src="https://wakatime.com/badge/user/933d66b0-96f8-4e00-81ad-43d402be51f8.svg" alt="Total time coded since May 23 2025" /></a>
+    <a href="https://wakatime.com/@933d66b0-96f8-4e00-81ad-43d402be51f8"><img src="https://wakatime.com/badge/user/933d66b0-96f8-4e00-81ad-43d402be51f8.svg" /></a>
 
   </div>
 
